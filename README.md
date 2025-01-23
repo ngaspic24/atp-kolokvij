@@ -36,3 +36,18 @@ async def echo_client(data, loop):
 
 [LICENCA](LICENSE.md)
 
+### Checklist
+ Kreirati GitHub repozitorij nazvan atp-kolokvij [+]
+ Dodati naslov projekta (H1)
+ Dodati kratki opis projekta (H2) – preuzeti tekst s Wikipedije
+ Dodati sliku – preuzeti s Unsplash ili Pexels
+ Dodati primjer koda – preuzeti s Gists
+ Dodati link na izvor slike i teksta
+ Linkati README.md i LICENSE.md (obostrano)
+ Napraviti popis (numerički i ne-numerički)
+ Izraditi kratku tablicu s informacijama o projektu
+ Napraviti commit promjena s odgovarajućom porukom
+ Otvoriti pull request unutar vlastitog repozitorija
+ Dodati LICENSE.md datoteku s MIT licencom
+ Aktivirati GitHub Pages za repozitorij
+
