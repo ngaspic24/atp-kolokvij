@@ -30,5 +30,8 @@ async def echo_client(data, loop):
 3. Connery
 
 | autor | nikola gaspic |
+|----|----|
 | naziv | ATP kolokvij|
+|----|----|
 | verzija | 1.0 |
+|----|----| 
