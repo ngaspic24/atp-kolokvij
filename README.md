@@ -32,6 +32,5 @@ async def echo_client(data, loop):
 | autor | nikola gaspic |
 |----|----|
 | naziv | ATP kolokvij|
-|----|----|
 | verzija | 1.0 |
-|----|----| 
+
