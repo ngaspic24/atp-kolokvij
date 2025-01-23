@@ -34,3 +34,5 @@ async def echo_client(data, loop):
 | naziv | ATP kolokvij|
 | verzija | 1.0 |
 
+[LICENCA](LICENSE.md)
+
